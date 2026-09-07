@@ -202,3 +202,21 @@ Every pesin dey entitled to get their dignity respected, no matter wetun them ac
 - Evidence Act 2011, Section 29(2) — a confession obtained through oppression is inadmissible in court, directly connecting this right to how mistreatment can affect a criminal case
 - Source: https://omaplex.com.ng/?p=6768 | https://blog.lawpavilion.com/the-new-tests-of-admissibility-of-confession-under-the-evidence-act-2011
 
+## Right to Appeal
+
+**Wetin e mean:**
+If pesin dey convicted(or the prosecution no agree with an acquittal), the case no go automatically end for the first court's decision. The pesin - or in some cases the Attorney-General - fit take the matter to a higher court to be reviewed. For certain serious outcomes, like say death sentence, this rihgt fit apply automatically ("as of right"); for others, you go need te court's permission ("leave") first
+
+**When e dey applied:**
+- After final decision(conviction or sentence) for the Federal High Court or for State High Court - appeal goes to the Court of Appeal 
+- After a decision of the 
+
+
+**Legal basis:**
+- Constitution of the Federal Republic of Nigeria 1999 (as amended), Section 241(1) — lists the categories of appeal to the Court of Appeal available "as of right," including final decisions at first instance, pure questions of law, constitutional interpretation, Chapter IV fundamental-rights breaches, and death sentences
+- Section 242 — governs appeals that require leave (permission) of the court
+- Section 243(1)(a) — confirms the right of appeal in criminal proceedings belongs to the accused person, or the Attorney-General of the Federation/State
+- Section 233(2) — sets out the equivalent categories of appeal, as of right, from the Court of Appeal to the Supreme Court
+- Source: https://nigerian-constitution.com/?p=1450 | https://nigerian-constitution.com/?p=1413 | https://omaplex.com.ng/?p=34317 (judicial interpretation of leave to appeal, Akpan v. State)
+
+
