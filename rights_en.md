@@ -24,7 +24,7 @@ You have the right to understand what is happening to you at the police station 
 **Legal basis:**
 - Constitution of the Federal Republic of Nigeria 1999 (as amended), Section 36(6)(a) and (e) — right to be informed promptly in a language understood, and to have the free assistance of an interpreter
 - Administration of Criminal Justice Act (ACJA) 2015, Section 6 — notification of cause of arrest and rights of suspect
-- Source: https://nigerian-constitution.com/chapter-4/ | https://www.policinglaw.info/assets/downloads/2015_Administration_of_Criminal_Justice_Act.pdf language you understand.
+- Source: https://nigerian-constitution.com/chapter-4/ | https://www.policinglaw.info/assets/downloads/2015_Administration_of_Criminal_Justice_Act.pdf 
 
 ### Right to Lawyer
 
