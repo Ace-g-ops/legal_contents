@@ -190,7 +190,7 @@ Every person is entitled to have their dignity respected, no matter what they're
 - At any point during the criminal justice process, including trial and post-conviction
 
 **What you can say/do:**
-- "I am being mistreated. This is a violation of my right to dignity under Section 34."
+- "I am being mistreated. This is a violation of my right to dignity."
 - "I need medical attention — withholding that is inhumane treatment."
 - "Any statement obtained through force or threats against me should not be used in court."
 - If witnessing this happen to someone else: report it to a human rights NGO or the National Human Rights Commission.

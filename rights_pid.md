@@ -185,3 +185,20 @@ Every pesin dey entitled to get their dignity respected, no matter wetun them ac
 - At any point during the criminal justice process, including trial and post-conviction
 
 **Wetin pesin fit say/do:**
+- "I dey maltreated. This na violation of my right to dignity."
+- "I need medical attention - withholding that is inhumane treatment."
+- "Any statement wey them obtain through force or threats against me, make them no use am for court."
+- If witnessing this happen to someone else: report it to a human rights NGO or the National Human Rights Commission. 
+
+**Common Problems:**
+- Suspects are beaten or physically forced when them wan or don arrest/ dey interrorgate am but he/she no wan ope up
+- Poor detention conditions - overcrowding, inadequate food, denial of medical care. 
+- Confessions wey them go extract through torturr or oppressive treatment dey still presented as evidence sometimes
+- Victims of custodial abuse dey often dey oblivious whether this dey distinct, enforceable constitutional right, not just a moral wrong.
+
+**Legal basis:**
+- Constitution of the Federal Republic of Nigeria 1999 (as amended), Section 34(1) — every individual is entitled to respect for the dignity of their person; no person shall be subjected to torture or to inhuman or degrading treatment
+- Anti-Torture Act 2017 — makes torture a distinct criminal offence in Nigerian law, reinforcing Section 34 (I have not personally verified the specific section numbers of this Act — check the full text before citing specific provisions)
+- Evidence Act 2011, Section 29(2) — a confession obtained through oppression is inadmissible in court, directly connecting this right to how mistreatment can affect a criminal case
+- Source: https://omaplex.com.ng/?p=6768 | https://blog.lawpavilion.com/the-new-tests-of-admissibility-of-confession-under-the-evidence-act-2011
+
