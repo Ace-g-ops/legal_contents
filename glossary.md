@@ -24,6 +24,7 @@
 | **Plea** | Ẹ̀bẹ̀ / Ìpè | Ƙarar Gwaskiya | Your response to the charge (guilty or not guilty) |
 | **Prosecution** | Ìgbésẹ̀ ìjọba / Ìfi ẹ̀sun kan | Tuhamar Gwamnati | The side trying to prove you committed the crime |
 | **Defendant** | Ẹni tí a fi ẹ̀sun kan | Wanda aka tuhuma | You — the person accused of the crime |
+|**Answer** | ehehehehehehehhe | dhhdhdhdhd | The formal written statement by a defendant in a civil case that responds to a complaint, articulating the grounds for defense.
 
 ## Common Phrases
 
