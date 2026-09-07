@@ -209,7 +209,21 @@ If pesin dey convicted(or the prosecution no agree with an acquittal), the case 
 
 **When e dey applied:**
 - After final decision(conviction or sentence) for the Federal High Court or for State High Court - appeal goes to the Court of Appeal 
-- After a decision of the 
+- After a decision of the court of appeal - a further appeal fit go the supreme court, though this one dey very limited. 
+- Automatically ("all of right"), without needing permission, when: teh case dey final decision for first hearing, the appeal go be purely about point of law, e involve interpreting the constitution, e involve a posible breach of a Chapter IV fundermental right, or the person was sentenced to death
+- With the court's permission ("leave"), for other kinds of appeal not covered by the automatic categories. 
+
+## Wetin pesin fit say/do:**
+- "I wan appeal this decision - which court e go to and, shey I go need leave or is this as-of-right?"
+- "This appeal dey purely on a point of law - I get say e qualify as of right."
+- "Them sentence me to death - Iknow I have an automatic right of appeal on that basis."
+- "I no fit afforf legal representation for the appeal - shey i fit use/get Legal Aid assit for this stage too ?"
+
+**Common Problems:**
+- People dey assume say a first-court connviction is final and no dey realize say an appeal is possible at all
+- Them dey alway get confusion between "as of right" appeals (automatic) and "with leave" appeals (permission needed), which dey always lead to misssed deadlinesor wrongly filed applications
+- Appeal windows dey very time-limited - delays in deciding to appeal, or finding a lawyer, fir cause the right to lapse 
+- Victims/Complaints sometimes wrongly believe say them fit get the same automatic right of appeal as the accused when a case ends in aquittal - the law generaly dey reserve this one for the accused or teh Attorney-General, with narrow court-recognized exceptions
 
 
 **Legal basis:**
