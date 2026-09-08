@@ -133,6 +133,6 @@ After everybody don talk, the judge go give decision—Guilty or Not Guilty—an
 **Wetin dey happen:**
 This one no be new trial—na when higher court check if the first court follow law well. You fit need permission from court to appeal, or e fit be your right depending on the case.
 
-*Note: For full details on how Appeal waka, check the "Right to Appeal" file.*
+*Note: For full details on how Appeal work, check the "Right to Appeal" file.*
 
 **Sources:** *Nigerian Constitution (1999) Chapter 4; Administration of Criminal Justice Act (ACJA 2015); Evidence Act 2011.*
