@@ -42,7 +42,7 @@ Administration of Criminal Justice Act (ACJA) 2015, Sections 193-196
 2. **Ask the court to note the error** — The judge should be aware
 3. **Don't sign anything** until errors are corrected
 4. **Request a corrected copy** — You're entitled to accurate charge documents
-5. **If charge is completely different** from what you were arrested for, ask your lawyer to challenge it
+5. **If charge is completely different** - if the charges is completly differnt from what you were arrested for, ask your lawyer to challenge it
 
 **Red flags (suspicious changes to watch for):**
 
@@ -110,7 +110,7 @@ Administration of Criminal Justice Act (ACJA) 2015, Part 19 (Sections 158-188)
 
 
 **When you'll see it:**
-- After your first appearance whenthe judge considers bail
+- After your first appearance when the judge considers bail
 - When bail is granted by the court
 - When the bail conditions are varied or are updated
 - When sureties are being approved
@@ -154,15 +154,15 @@ Administration of Criminal Justice Act (ACJA) 2015, Part 19 (Sections 158-188)
 **What to do if something is wrong:**
 
 1. **Tell your lawyer immediately** — They can apply to vary (change) the bail order
-2. **Don't sign the bail bond** until errors are corrected
+2. **Don't sign the bail bond** - don' until errors are corrected
 3. **Ask the court to correct the order** — Minor errors (typos) can be fixed
-4. **If bail amount is different** from what judge announced, your lawyer should raise it before you leave court
+4. **If bail amount is different** - if the bail amount is differnet from what judge announced, your lawyer should raise it before you leave court
 5. **Request a certified true copy** — Always get an official copy from the court registry
 
 
 **Red Flags(Suspicious changes to watch for):**
 
-**High Priorites(Could indicate tameperrin):**
+**High Priorites(Could indicate tamepering):**
 - Bail amount changed without your knowledge or court hearing
 - Conditions added that the judge didn't mention
 - Your name or case number altered
