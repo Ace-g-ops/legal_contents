@@ -1,4 +1,4 @@
-# Naija Legal Rights Guide
+# Legal Rights Guide
 
 This project helps developers build legal assistance tools for Nigerians by providing a comprehensive repository of legal rights, document explanations, and criminal justice workflows translated into multiple local languages. It takes complex Nigerian legal concepts and breaks them down into plain language so teams can easily integrate them into chatbots, websites, or educational apps. No complicated setup, just straightforward legal content that works.
 
